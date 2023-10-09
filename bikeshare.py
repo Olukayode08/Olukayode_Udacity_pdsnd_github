@@ -180,14 +180,14 @@ def user_stats(df):
 
     # Display earliest, most recent, and most common year of birth
     if ('Birth Year' in df):
-        earliest_year_of_birth = df['Birth Year'].min()
-        print('The earliest year of birth is: ', earliest_year_of_birth)
+        earliest_birth_year = df['Birth Year'].min()
+        print('The earliest year of birth is: ', earliest_birth_year)
 
-        most_recent_year_of_birth = df['Birth Year'].max()
-        print('The most recent year of birth is: ', most_recent_year_of_birth)
+        most_recent_birth_year = df['Birth Year'].max()
+        print('The most recent year of birth is: ', most_recent_birth_year)
 
-        most_common_year_of_birth = df['Birth Year'].value_counts()
-        print('The most common year of birth is: ', most_common_year_of_birth)
+        most_common_birth_year = df['Birth Year'].value_counts()
+        print('The most common year of birth is: ', most_common_birth_year)
 
     print("\nThis took %s seconds." % (time.time() - start_time))
     print('-'*40)
