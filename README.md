@@ -1,5 +1,5 @@
 ### Date created
-This project was created on the 30th of September 2023 and the readme file was created on October 8th 2023
+This project was created on the 30th of September 2023 and the Readme file was created on October 8th 2023.
 
 ### Project Title
 A Bikeshare Application
@@ -38,5 +38,5 @@ This project explores bikeshare data from Chicago, New York City and Washington.
 2. Control flow - My jottings from the control flow section while learning python on Udacity
 3. Practice solution #3 on the US Explore Bikeshare Data on Udacity
 4. A slack overflow web result on handling errors. [Error handling with multiple user inputs](https://stackoverflow.com/questions/50144817/python-how-to-create-for-multiple-user-input-error-handling)
-5. A slack overflow web result on the error AttributeError: object has no attribute 'weekday_name'. [weekday_name attribute error](https://stackoverflow.com/questions/60339049/weekday-name-from-a-pandas-dataframe-date-object)
+5. A slack overflow web result on the error AttributeError: object has no attribute 'weekday_name'. [Weekday_name attribute error](https://stackoverflow.com/questions/60339049/weekday-name-from-a-pandas-dataframe-date-object)
 
